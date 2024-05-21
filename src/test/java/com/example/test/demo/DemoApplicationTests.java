@@ -7,10 +7,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DemoApplicationTests {
 
 	@Test
-	void contextShouldLoad() {
-	}
-
-	@Test
-	void anotherContextLoads() {
+	void contextLoad() {
 	}
 }
